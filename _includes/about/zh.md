@@ -1,13 +1,9 @@
-Hi，这里可以查看论文
+Hi，这里可以查看论文和下载PPT
 
 
 ##### 论文
 
-- [zhangyan1](/pdf/zhangy1.pdf)
-
 - [Cross-property deep transfer learning framework for enhanced predictive analytics on small materials data.pdf](/pdf/Cross-property deep transfer learning framework for enhanced predictive analytics on small materials data.pdf)
-
-- [Cross-PPT](/pdf/cross.pptx)
-
-  
+- [Cross-property deep transfer learning framework for enhanced predictive analytics on small materials data-PPT](asset//ppt/Cross-property deep transfer learning framework for enhanced predictive analytics on small materials data.pptx)
+- [Generalizing from a Few Examples A Survey on Few-Shot Learning](asset/pdf/Generalizing from a Few Examples A Survey on Few-Shot Learning.pdf)
 
