@@ -54,12 +54,19 @@ kramdown:
       start_line: 1
 
 
+#导航栏
+nav:
+  home: '/'
+  blog: '/blog/'
+  archives: '/archives.html'
+  tags: '/tags.html'
+  RSS: '/feed.xml'
+  logs: '/logs.html'
 
-# Disqus settings
-disqus_username: zgj
 
-# Netease settings
-netease_comment: false
+
+
+
 
 
 
