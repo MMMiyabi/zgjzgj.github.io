@@ -1,0 +1,17 @@
+---
+layout: page
+title: "资源区"
+description: "论文及PPT"
+header-img: "img/about-bg.jpg"
+multilingual: false
+---
+
+{% include multilingual-sel.html %}
+
+<!-- Chinese Version -->
+<div class="zh post-container">
+    {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
+    {{ about_zh | markdownify }}
+</div>
+
+
