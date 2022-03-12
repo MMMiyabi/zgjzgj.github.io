@@ -16,7 +16,9 @@ RSS: false
 zhihu_username:     
 github_username:    
 
-
+# Livere评论系统
+Livere:
+livere_uid:  MTAyMC81NTczNC8zMjIwMA==
 
 
 # Build settings
