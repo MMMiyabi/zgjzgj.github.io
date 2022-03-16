@@ -101,6 +101,12 @@ layout: default
   {% include mathjax_support.html %}
 {% endif %}
 
+{% if site.intensedebate_comments %}
+    {% include intensedebate-comments.html %}
+{% endif %}
+
+
+
 {% if site.netease_comment %}
 <!-- 网易云跟帖JS代码 start -->
 <script src="https://img1.cache.netease.com/f2e/tie/yun/sdk/loader.js"></script>
@@ -118,7 +124,7 @@ layout: default
 {% endif %}
 
 <!-- 来必力City版安装代码 -->
-<div id="lv-container" data-id="city" data-uid="MTAyMC81NTczNC8zMjIwMA==">
+<div id="lv-container" data-id="city" data-uid="MTAyMC81NTczNC8zMjIwMA==" style="width: 750px;margin: 0 auto;">
 	<script type="text/javascript">
    (function(d, s) {
        var j, e = d.getElementsByTagName(s)[0];
@@ -136,23 +142,6 @@ layout: default
 </div>
 <!-- City版安装代码已完成 -->
 
-
-{% if site.disqus_username %}
-<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = "{{site.disqus_username}}";
-    var disqus_identifier = "{{page.id}}";
-    var disqus_url = "{{site.url}}{{page.url}}";
-
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<!-- disqus 公共JS代码 end -->
-{% endif %}
 
 
 {% if site.anchorjs %}

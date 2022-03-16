@@ -20,6 +20,9 @@ github_username:
 Livere:
 livere_uid:  MTAyMC81NTczNC8zMjIwMA==
 
+# IntenseDebate 评论系统
+intensedebate_comments: true
+
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
