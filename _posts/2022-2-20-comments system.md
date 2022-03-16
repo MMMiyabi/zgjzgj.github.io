@@ -13,7 +13,7 @@ tags: 网站建设
 
 说到第三方评论系统首先就是Disqus。优点很多（我还没有来得及去感受），有几档价格可以选择，可以选择免费的，但是得看广告。
 
-#### 使用
+**使用**
 
 Disqus的使用很简单，上官网https://disqus.com/照着来就行了。
 
@@ -21,7 +21,7 @@ Disqus的使用很简单，上官网https://disqus.com/照着来就行了。
 
 Talkyard是一款比Disqus更轻量的第三方评论系统，亮点是开源。你可以将它免费部署到自己的服务器上，也可以付费享受服务。
 
-#### 使用
+**使用**
 
 在其开源的github网站上有详细的部署教程https://github.com/debiki/talkyard-prod-one
 
@@ -39,25 +39,25 @@ Talkyard是一款比Disqus更轻量的第三方评论系统，亮点是开源。
 
 此外，本人在使用时还发现，来必力不会在你进入网页的时候预加载， 因此每次拖到评论区的时候等待加载的时候比较长。
 
-#### 使用
+**使用**
 
-1. 注册登录
+注册登录
 
-2. 在官网上选择安装
+在官网上选择安装
 
 ![](https://i.vgy.me/cTwSw9.png)
 
-3. 在_config.yml文件中添加来必力模块
+在_config.yml文件中添加来必力模块
 
 `livere_uid:  MTAyMC81NTczNC8zMjIwMA==`
 
-4. 将安装代码添加到post.html中
+将安装代码添加到post.html中
 
 
 
 ![](https://i.vgy.me/FN8FVd.png)
 
-5. 成功
+成功
 
 ![](https://i.vgy.me/EpYM7j.png)
 
@@ -69,7 +69,7 @@ Talkyard是一款比Disqus更轻量的第三方评论系统，亮点是开源。
 
 ![](https://i.vgy.me/miimI3.png)
 
-#### 使用
+**使用**
 
 1. 先去IntenseDebate注册一个账号。
 
