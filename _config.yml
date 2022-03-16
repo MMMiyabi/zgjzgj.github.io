@@ -62,13 +62,13 @@ kramdown:
 
 
 #导航栏
-nav:
-  home: '/'
-  blog: '/blog/'
-  archives: '/archives.html'
-  tags: '/tags.html'
-  RSS: '/feed.xml'
-  logs: '/logs.html'
+# nav:
+#   home: '/'
+#   blog: '/blog/'
+#   archives: '/archives.html'
+#   tags: '/tags.html'
+#   RSS: '/feed.xml'
+#   logs: '/logs.html'
 
 
 
