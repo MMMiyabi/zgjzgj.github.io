@@ -9,7 +9,7 @@ header-style: text
 tags: 论文阅读
 ---
 
-本文基于《A Survey of Deep Meta-Learning》
+本文是基于《A Survey of Deep Meta-Learning》
 
 ### 什么是元学习
 
