@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "A Survey on Meta Learning“
+title:      "A Survey on Meta Learning"
 subtitle:   ""
-date:       2022-3-21 15:30:00
+date:       2022-3-21 14:30:00
 author:     "zgj"
 catalog: true
 header-style: text
