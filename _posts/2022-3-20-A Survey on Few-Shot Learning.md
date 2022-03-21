@@ -2,7 +2,7 @@
 layout:     post
 title:      "Generalizing from a Few Examples: A Survey on Few-Shot Learning"
 subtitle:   ""
-date:       2022-3-15 14:30:00
+date:       2022-3-20 14:30:00
 author:     "zgj"
 catalog: true
 header-style: text
