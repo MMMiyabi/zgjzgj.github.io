@@ -21,7 +21,7 @@ Livere:
 livere_uid:  MTAyMC81NTczNC8zMjIwMA==
 
 # IntenseDebate 评论系统
-intensedebate_comments: true
+intensedebate_comments: false
 
 
 # Build settings
